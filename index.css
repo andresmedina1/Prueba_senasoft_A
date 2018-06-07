@@ -1,0 +1,256 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .video-responsive{
+    display: block;
+    width: 100%;
+    height: auto;
+    top: 0px;
+      }
+  .video-responsive  video{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    text-align: center;
+      }
+  .logo{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 21px;
+    left: 87px;
+    margin: auto;
+      }   
+  .titulo1{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    font-size: 19px;
+    top: 26px;
+    left: 138px;
+    margin: auto;
+    position: absolute;
+      }
+  .banner1{
+    width: 430px;
+    height: 100px;
+    position: absolute;
+    top: 21px;
+    right: 58px;
+    margin: auto;
+      }
+  .titulo2{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    font-size: 15px;
+    top: 19px;
+    right: 138px;
+    margin: 10px;
+    display: inline-block;
+    transition: .5s;
+     }
+  .titulo2:hover{
+    color: #00D4FA;
+     }
+  .titulo3{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    top: 310px;
+    right: 225px;
+    left: 0px;
+    position: absolute;
+  }
+  .titulo3-2{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+    top: 310px;
+    right: -176px;
+    left: 0px;
+    position: absolute;
+  }
+  .titulo4{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    top: 414px;
+    right: 0px;
+    left: 0px;
+    position: absolute;
+  }
+  .titulo5{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    top: 456px;
+    right: 0px;
+    left: 0px;
+    position: absolute;
+  }
+  div{
+    background-color: white;
+    height: 900px;
+    width: auto;
+    margin: -4px 0px;
+    text-align: center;
+  }
+  
+  .primero{
+    width: 650px;
+    height: 300px;
+    position: relative;
+    top: 37px;
+    left: 140px;
+    margin: auto;
+    float: left;
+  }
+  .titulo7{
+    font-family: 'Titillium Web', sans-serif;
+    color: rgba(0, 0, 0, 0.82);
+    font-size: 25px;
+    position: relative;
+    top: 41px;
+    right: 491px;
+    float: right;
+    margin: auto;
+  }
+  .titulo7-2{
+    font-family: 'Titillium Web', sans-serif;
+    color: rgba(0, 0, 0, 0.82);
+    font-size: 25px;
+    font-weight: bolder;
+    position: relative;
+    top: 42px;
+    right: 254px;
+    float: right;
+    margin: auto;
+  }
+  .barra{
+    background-color: #00D4FA;
+    width: 234px;
+    height: 2px;
+    position: relative;
+    top: 86px;
+    right: 137px;
+    margin: auto;
+    float: right;
+    text-align: left;
+    }
+  .menu{
+    width: 253px;
+    height: 300px;
+    position: relative;
+    top: 9px;
+    left: 7px;
+    margin: auto;
+    float: right;
+    text-align: left;
+  }
+  .lmenu{
+    font-family: 'Titillium Web', sans-serif;
+    color: #000000;
+    font-size: 15px;
+    top: 10px;
+    right: 138px;
+    margin: 10px;
+    transition: .5s;
+
+     }
+  .lmenu:hover{
+    color: #00D4FA;
+  }
+  .banner2{
+    width: 650px;
+    height: 39px;
+    background-color: #ECEFF1;
+    top: 316px;
+    right: 633px;
+    margin: auto;
+    float: right;
+    position: relative;
+  }
+  .persona{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+  }
+  .personal{
+    font-family: 'Titillium Web', sans-serif;
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 15px;
+    float: left;
+    margin-left: 6px;
+    margin-top: 8px;
+    transition: .5s;
+  }
+  .personal:hover{
+    color: #00D4FA;
+  }
+  .carpeta{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 18px;
+    margin-top: 5px;
+  }
+  .carpetal{
+    font-family: 'Titillium Web', sans-serif;
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 15px;
+    float: left;
+    margin-left: 6px;
+    margin-top: 8px;
+    transition: .5s;
+  }
+  .carpetal:hover{
+    color: #00D4FA;   
+  }
+  .commit{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 18px;
+    margin-top: 5px;
+  }
+  .commitl{
+    font-family: 'Titillium Web', sans-serif;
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 15px;
+    float: left;
+    margin-left: 6px;
+    margin-top: 8px;
+    transition: .5s;
+  }
+  .commitl:hover{
+    color: #00D4FA;   
+  }
+  .View{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 240px;
+    margin-top: 5px;
+    position: relative;
+  }
+  .more{
+    font-family: 'Titillium Web', sans-serif;
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 15px;
+    float: right;
+    margin-right: 47px;
+    margin-top: -27px;
+    transition: .5s;
+    position: relative;
+  }
+  .more:hover{
+    color: #00D4FA;   
+  }
